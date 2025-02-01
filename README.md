@@ -1,0 +1,1 @@
+# magento_block_translator
