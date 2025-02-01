@@ -57,4 +57,3 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 ---
 
 ¡Utiliza Magento Block Translator - Diff & Bulk Tool para sustituir fácilmente marcadores en tus plantillas HTML con datos desde un CSV!
-```
